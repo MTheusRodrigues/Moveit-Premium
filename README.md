@@ -37,7 +37,7 @@ Uma aplicação que simula a utilização da técnica de pomodoro com o intuito 
 ## ⚙️ Functionalities
 
 
-  ✔️ Pagina Principal;<br>
+ ☑ Pagina Principal;<br>
   ✔️ Cronômetro;<br>
   ✔️ Barra de Experiência;<br>
   ✔️ Desafios;<br>
