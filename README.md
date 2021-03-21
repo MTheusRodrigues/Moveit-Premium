@@ -77,7 +77,7 @@ Uma aplicação que simula a utilização da técnica de pomodoro com o intuito 
 ### Página Principal
 
 <div align="center">
-    <img width="100%" src=".public/homePage.png" />
+    <img width="100%" src="./public/homePage.png" />
 </div>
 
 ### Modal que aparece ao súbir de nível
