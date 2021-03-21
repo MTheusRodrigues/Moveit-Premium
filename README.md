@@ -71,15 +71,13 @@ Uma aplicação que simula a utilização da técnica de pomodoro com o intuito 
 ### Página de Login
 
 <div align="center">
-    <img width="100%" src="./assets/login_light.PNG" />
-    <img width="100%" src="./assets/login_dark.PNG " />
+    <img width="100%" src="./public/indexPage.png" />
 </div>
 
 ### Página Principal
 
 <div align="center">
-    <img width="100%" src="./assets/main_light.PNG" />
-    <img width="100%" src="./assets/main_dark.PNG " />
+    <img width="100%" src=".public/homePage.png" />
 </div>
 
 ### Modal que aparece ao súbir de nível
