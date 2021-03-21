@@ -29,11 +29,6 @@
 
 Uma aplicação que simula a utilização da técnica de pomodoro com o intuito de tornar devs mais produtivos e mais saudáveis.
 
-Abaixo disponibilizei um link para o site hospedado:
-
-<a align="center" href="https://moveit-taupe-sigma.vercel.app/">
-    <img alt="Site moveit" src="https://img.shields.io/static/v1?label=Demonstra%C3%A7%C3%A3o&message=moveit&color=4953B8&style=for-the-badge&logo=vercel">
-</a>
 
 ---
 
@@ -41,16 +36,16 @@ Abaixo disponibilizei um link para o site hospedado:
 
 ## ⚙️ Funcionalidades
 
-- [x] Front-end;
-  - [x] Pagina Principal;
-  - [x] Cronômetro;
-  - [x] Barra de Experiência;
-  - [x] Desafios;
-  - [x] Botão de Falhei - Cancela Desafio e Reseta Cronômetro;
-  - [x] Botão de Completei - Adiciona Experiência do Desafio e Reseta Cronômetro;
-  - [x] Apresenta um Modal quando usuário sobe de nível;
-  - [x] Os dados do usuário são salvos em cookies;
-  - [x] Alternância entre tema claro e escuro.
+
+  ✔️ Pagina Principal;
+  ✔️ Cronômetro;
+  ✔️ Barra de Experiência;
+  ✔️ Desafios;
+  ✔️ Botão de Falhei - Cancela Desafio e Reseta Cronômetro;
+  ✔️ Botão de Completei - Adiciona Experiência do Desafio e Reseta Cronômetro;
+  ✔️ Apresenta um Modal quando usuário sobe de nível;
+  ✔️ Os dados do usuário são salvos em cookies;
+  ✔️ Alternância entre tema claro e escuro.
 
 ### A milha extra...
 
