@@ -37,15 +37,15 @@ Uma aplicação que simula a utilização da técnica de pomodoro com o intuito 
 ## ⚙️ Funcionalidades
 
 
-  ✔️ Pagina Principal;
-  ✔️ Cronômetro;
-  ✔️ Barra de Experiência;
-  ✔️ Desafios;
-  ✔️ Botão de Falhei - Cancela Desafio e Reseta Cronômetro;
-  ✔️ Botão de Completei - Adiciona Experiência do Desafio e Reseta Cronômetro;
-  ✔️ Apresenta um Modal quando usuário sobe de nível;
-  ✔️ Os dados do usuário são salvos em cookies;
-  ✔️ Alternância entre tema claro e escuro.
+  ✔️ Pagina Principal;<br>
+  ✔️ Cronômetro;<br>
+  ✔️ Barra de Experiência;<br>
+  ✔️ Desafios;<br>
+  ✔️ Botão de Falhei - Cancela Desafio e Reseta Cronômetro;<br>
+  ✔️ Botão de Completei - Adiciona Experiência do Desafio e Reseta Cronômetro;<br>
+  ✔️ Apresenta um Modal quando usuário sobe de nível;<br>
+  ✔️ Os dados do usuário são salvos em cookies;<br>
+  ✔️ Alternância entre tema claro e escuro.<br>
 
 ### A milha extra...
 
