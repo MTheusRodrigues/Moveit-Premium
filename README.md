@@ -19,6 +19,8 @@
 
 <p>
 <img alt="Index Page" src="./public/public/CSS3_and_HTML5_logos_and_wordmarks.svg.png">
+<img alt="Index Page" src="./public/public/Typescript_logo_2020.png">
+<img alt="Index Page" src="./public/public/MongoDB_Logo.svg.png">
 
 </p>
 
