@@ -25,7 +25,7 @@
 
 </p>
 
-## 💻 Sobre o projeto
+## 💻 Project information
 
 Uma aplicação que simula a utilização da técnica de pomodoro com o intuito de tornar devs mais produtivos e mais saudáveis.
 
@@ -34,7 +34,7 @@ Uma aplicação que simula a utilização da técnica de pomodoro com o intuito 
 
 <a name="-funcionalidades"></a>
 
-## ⚙️ Funcionalidades
+## ⚙️ Functionalities
 
 
   ✔️ Pagina Principal;<br>
