@@ -48,21 +48,21 @@ Uma aplicação que simula a utilização da técnica de pomodoro com o intuito 
   ✔️ Alternância entre tema claro e escuro.<br>
 
 ### A milha extra...
-✅ Foi adicionado rotas para uso do MongoDB como banco de dados da aplicação;
-✅ Foi criado uma Side Bar;
-✅ Navegação entre Página principal e de Rankings;
-✅ Botão de LogOut;
-✅ Página de Login;
-✅ Layout Completo;
-✅ Login pelo Github com NextAuth;
-✅ Usuário é registrado no banco de dados (se não existir);
-✅ Página Principal:
-✅ Os dados do usuário são atualizados;
-✅ Página de Rankings;
-✅ Layout Completo;
-✅ É criado um ranking de quem tem mais experiência;
-✅ A aplicação está responsiva.
-✅ A aplicação está totalmente funcional em produção.
+✅ Foi adicionado rotas para uso do MongoDB como banco de dados da aplicação;<br>
+✅ Foi criado uma Side Bar;<br>
+✅ Navegação entre Página principal e de Rankings;<br>
+✅ Botão de LogOut;<br>
+✅ Página de Login;<br>
+✅ Layout Completo;<br>
+✅ Login pelo Github com NextAuth;<br>
+✅ Usuário é registrado no banco de dados (se não existir);<br>
+✅ Página Principal:<br>
+✅ Os dados do usuário são atualizados;<br>
+✅ Página de Rankings;<br>
+✅ Layout Completo;<br>
+✅ É criado um ranking de quem tem mais experiência;<br>
+✅ A aplicação está responsiva.<br>
+✅ A aplicação está totalmente funcional em produção.<br>
 
 ---
 
