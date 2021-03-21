@@ -48,25 +48,21 @@ Uma aplicação que simula a utilização da técnica de pomodoro com o intuito 
   ✔️ Alternância entre tema claro e escuro.<br>
 
 ### A milha extra...
-
-- [x] Troca de temas da interface, na qual o tema é salvo dentro de um cookie;
-- [x] A troca de temas é feita pela propriedade data-theme da tag html;
-- [x] Foi adicionado rotas para uso do MongoDB como banco de dados da aplicação;
-- [x] Foi criado uma Side Bar;
-  - [x] Navegação entre Página principal e de Rankings;
-  - [x] Botão de LogOut;
-  - [x] Troca de Temas;
-- [x] Página de Login;
-  - [x] Layout Completo;
-  - [x] Login pelo Github com NextAuth;
-  - [x] Usuário é registrado no banco de dados (se não existir);
-- [x] Página Principal:
-  - [x] Os dados do usuário são atualizados;
-- [x] Página de Rankings;
-  - [x] Layout Completo;
-  - [x] É criado um ranking de quem tem mais experiência;
-- [x] A aplicação está responsiva.
-- [x] A aplicação está totalmente funcional em produção.
+✅ Foi adicionado rotas para uso do MongoDB como banco de dados da aplicação;
+✅ Foi criado uma Side Bar;
+✅ Navegação entre Página principal e de Rankings;
+✅ Botão de LogOut;
+✅ Página de Login;
+✅ Layout Completo;
+✅ Login pelo Github com NextAuth;
+✅ Usuário é registrado no banco de dados (se não existir);
+✅ Página Principal:
+✅ Os dados do usuário são atualizados;
+✅ Página de Rankings;
+✅ Layout Completo;
+✅ É criado um ranking de quem tem mais experiência;
+✅ A aplicação está responsiva.
+✅ A aplicação está totalmente funcional em produção.
 
 ---
 
