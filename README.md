@@ -90,8 +90,7 @@ Uma aplicação que simula a utilização da técnica de pomodoro com o intuito 
 ### Página de Rankings
 
 <div align="center">
-    <img width="100%" src="./assets/ranking_light.PNG" />
-    <img width="100%" src="./assets/ranking_dark.PNG " />
+    <img width="100%" src="./public/rankingPage.png" />
 </div>
 
 ---
