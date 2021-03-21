@@ -12,7 +12,7 @@
 
 
 <h4 align="center"> 
-	🚧  Aplicação finalizada! 🚧
+	🚧 Application under construction! 🚧
 </h4>
 
 ## 🏁 Tópicos
