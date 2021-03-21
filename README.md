@@ -1,17 +1,15 @@
 <p align="center">
 	
-  <img alt="Index Page" src="">
+  <img alt="Index Page" src="./public/indexPage.png">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/grochavieira/moveit?style=for-the-badge">
+
   
 
 
   
  
 </p>
-<h1 align="center">
-    <img src="./public/indexPage.png" />
-</h1>
+
 
 <h4 align="center"> 
 	🚧  Aplicação finalizada! 🚧
