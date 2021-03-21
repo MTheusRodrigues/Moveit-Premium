@@ -15,7 +15,7 @@
 	🚧 Application under construction! 🚧
 </h4>
 
-##  Technologies used  ##
+##  👨‍💻Technologies used  ##
 
 <p align="center">
 <img alt="Index Page" src="./public/public/CSS3_and_HTML5_logos_and_wordmarks.svg.png">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
