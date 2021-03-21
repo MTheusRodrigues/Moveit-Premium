@@ -1,0 +1,80 @@
+.container {
+  height: 100vh;
+  max-width: 992px;
+  margin: 0 auto;
+  margin-bottom: 20rem;
+  padding: 2.5rem 3rem;
+  background: rgb(245, 245, 245);
+  box-shadow: 0 0 60px rgb(230, 230, 230);
+  display: flex;
+  flex-direction: column;
+}
+.titleTab {
+  width: 100%;
+  background: rgb(207, 207, 207);
+  border-radius: 4px;
+  padding: .5rem;
+  margin-top: 30px;
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+}
+.titleTab p {
+  color: rgb(0, 0, 0);
+  font-size: 0.9rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.titleTab > div {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 1.5rem;
+}
+.titleTab > div div {
+  width: 100%;
+  display: flex;
+  margin-right: 0.4rem;
+  max-width: 20rem;
+}
+.titleTab > div div p {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 700px) {
+  .container {
+    padding: 2.5rem 1rem;
+  }
+  .titleTab p {
+    font-size: 0.8rem;
+  }
+  .titleTab > p {
+    margin-left: -0.2rem;
+  }
+  .titleTab > div {
+    margin-left: 0.8rem;
+  }
+  .titleTab > div div {
+    margin-right: 0.4rem;
+    max-width: 15rem;
+  }
+}
+@media (max-width: 550px) {
+  .titleTab p {
+    font-size: 0.65rem;
+  }
+  .titleTab > p {
+    margin-left: -0.4rem;
+  }
+  .titleTab > div {
+    margin-left: 0.5rem; 
+  }
+  .titleTab > div div {
+    margin-right: 0.4rem;
+    max-width: 10rem;
+  }
+}

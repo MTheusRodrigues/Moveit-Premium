@@ -1,0 +1,129 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  background: linear-gradient(to top, rgb(218, 218, 218),#ffffff);
+  box-shadow: 0 0 50px rgb(230, 230, 230);
+  border-radius: 5px;
+  margin-top: 10px;
+}
+.number {
+  color: #050505;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 2rem 1.5rem;
+  font-size: 1.2rem;
+  max-width: 5rem;
+  border-right: 3px solid var(--background);
+}
+.userInfo {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.userProfile {
+  margin-left: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.userProfile > img {
+  width: 4.5rem;
+  height: 4.5rem;
+  border-radius: 50%;
+}
+.userProfile div {
+  margin-left: 1.3rem;
+}
+.userProfile div strong {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--title);
+}
+.userProfile div p {
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+  display: flex;
+}
+.userProfile div p img {
+  margin-right: 0.5rem;
+}
+.userData {
+  width: 100%;
+  max-width: 20rem;
+  display: flex;
+  flex-direction: row;
+}
+.userData p:first-child {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.userData p:last-child {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+ 
+}
+.userData p span {
+  color: #008d86;
+}
+@media (max-width: 700px) {
+  .number {
+    font-size: 1.5rem;
+    max-width: 4rem;
+  }
+  .userProfile > img {
+    width: 3rem;
+    height: 3rem;
+  }
+  .userProfile div strong {
+    font-size: 1rem;
+  }
+  .userData {
+    max-width: 15rem;
+  }
+}
+@media (max-width: 550px) {
+  .number {
+    font-size: 1rem;
+    padding: 2rem 1.3rem;
+    max-width: 2rem;
+  }
+  .userData {
+    max-width: 10rem;
+  }
+  .userProfile {
+    margin-left: 0.5rem;
+  }
+  .userProfile div {
+    margin-left: 0.5rem;
+  }
+  .userProfile div strong {
+    font-size: 0.9rem;
+  }
+  .userProfile div p {
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
+    display: flex;
+    align-items: center;
+  }
+  .userProfile div p img {
+    width: 12px;
+    height: 12px;
+    margin-right: 0.5rem;
+  }
+  .userData p:last-child {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}

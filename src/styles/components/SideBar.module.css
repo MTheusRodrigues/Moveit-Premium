@@ -1,0 +1,89 @@
+.sideBarContainer {
+    margin: 0 auto;
+    padding: 0;
+    width: 5rem;
+    height: 100vh;
+    position: fixed;
+  
+}
+.sideBarNav {
+    width: 5rem;
+    height: 100vh;
+    background: linear-gradient(to top, var(--background),#949494);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 0 3rem 0;
+}
+.sideBarNavLogo {
+    width: 4rem;
+    height: 4rem;
+    position: relative;
+    background:transparent;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+.sideBarNavLogoRectOut {
+    width: 0.5rem;
+    height: 1.8rem;
+    background: var(--background);
+    transform: skew(-10deg);
+}
+.sideBarNavLogoRectIn {
+    width: 0.5rem;
+    height: 2.3rem;
+    background: var(--background);
+    margin: 0 0.33rem 0 0.2rem;
+    transform: skew(-10deg);
+}
+.sideBarNavIconHome {
+    width: 3rem;
+    height: 4rem;
+    display: flex;
+    background: transparent;
+    color: rgb(139, 139, 139);
+    font-size: 1.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: .3s;
+}
+.sideBarNavIconHome p:hover {
+    cursor: pointer;
+    color: var(--blue);
+    transition: .3s;
+}
+.sideBarNavIconTrophy {
+    width: 3rem;
+    height: 4rem;
+    display: flex;
+    background: transparent;
+    color: rgb(139, 139, 139);
+    font-size: 1.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.sideBarNavIconTrophy p:hover {
+    cursor: pointer;
+    color: rgb(212, 181, 0);
+    transition: .3s;
+}
+.sideBarNavIconSingOut {
+    width: 3rem;
+    height: 4rem;
+    display: flex;
+    background: transparent;
+    color: rgb(139, 139, 139);
+    font-size: 1.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.sideBarNavIconSingOut p:hover {
+    cursor: pointer;
+    color: var(--red);
+    transition: .3s;
+}
