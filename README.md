@@ -1,15 +1,8 @@
 <p align="center">
 	
   <img alt="Index Page" src="./public/indexPage.png">
-
-
-  
-
-
-  
  
 </p>
-
 
 <h4 align="center"> 
 	🚧 Application under construction! 🚧
@@ -27,7 +20,7 @@
 
 ## 💻 Project information
 
-O sistema é baseado na técnica de Pomodoro, onde consiste em atividades realizadas com intervalos de 25 minutos. Para mais informações acesse o link: https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro.
+The system is based on the Pomodoro technique, which consists of activities performed at intervals of 25 minutes. For more information visit the link: https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro.
 
 
 ---
@@ -36,33 +29,39 @@ O sistema é baseado na técnica de Pomodoro, onde consiste em atividades realiz
 
 ## ⚙️ Functionalities
 
-
- ☑ Pagina Principal;<br>
- ☑ Cronômetro;<br>
- ☑ Barra de Experiência;<br>
- ☑ Desafios;<br>
- ☑ Botão de Falhei - Cancela Desafio e Reseta Cronômetro;<br>
- ☑ Botão de Completei - Adiciona Experiência do Desafio e Reseta Cronômetro;<br>
- ☑ Apresenta um Modal quando usuário sobe de nível;<br>
- ☑ Os dados do usuário são salvos em cookies;<br>
- ☑ Alternância entre tema claro e escuro.<br>
+ ☑ Home;<br>
+ ☑ Timer;<br>
+ ☑ Experience Bar;<br>
+ ☑ Challenges;<br>
+ ☑ Failed Button - Cancels Challenge and Timer Reset;<br>
+ ☑ Complete Button - Adds Challenge Experience and Timer Reset;<br>
+ ☑ Displays a Modal when user level up;<br>
+ ☑ User data is saved in cookies;<br>
 
 ### A milha extra...
-✅ Foi adicionado rotas para uso do MongoDB como banco de dados da aplicação;<br>
-✅ Foi criado uma Side Bar;<br>
-✅ Navegação entre Página principal e de Rankings;<br>
-✅ Botão de LogOut;<br>
-✅ Página de Login;<br>
-✅ Layout Completo;<br>
-✅ Login pelo Github com NextAuth;<br>
-✅ Usuário é registrado no banco de dados (se não existir);<br>
-✅ Página Principal:<br>
-✅ Os dados do usuário são atualizados;<br>
-✅ Página de Rankings;<br>
-✅ Layout Completo;<br>
-✅ É criado um ranking de quem tem mais experiência;<br>
-✅ A aplicação está responsiva.<br>
-✅ A aplicação está totalmente funcional em produção.<br>
+✅ Routes for using MongoDB as an application database have been added;<br>
+✅ A Side Bar has been created;<br>
+✅ Navigation between Main page and Rankings;<br>
+✅ LogOut button;<br>
+✅ Login Page;<br>
+✅ Complete Layout;<br>
+✅ Login by Github with NextAuth;<br>
+✅ Login by Google with NextAuth;<br>
+✅ Login by Facebook with NextAuth;<br>
+✅ User registered in database (if it does not exist);<br>
+✅ Home:<br>
+✅ User data is updated;<br>
+✅ Rankings Page;<br>
+✅ Full Layout - Premium Version;<br>
+✅ Ranking with experience levels;<br>
+
+
+### Future Updates...
+🔨-Deploy for production;
+🔨-Responsive for mobile devices;
+🔨-Addition of ranking with three levels (gold, silver and bronze);
+🔨-Adding friendships button (add friends);
+🔨-Added dark and light theme;
 
 ---
 
@@ -80,7 +79,7 @@ O sistema é baseado na técnica de Pomodoro, onde consiste em atividades realiz
     <img width="100%" src="./public/homePage.png" />
 </div>
 
-### Modal que aparece ao súbir de nível
+### Modal level up
 
 <div align="center">
     <img width="100%" src="./public/modal.png" />
@@ -104,7 +103,7 @@ Para execução deste projeto é necessário a instalação de algumas ferrament
 Text Editor: [VSCode](https://code.visualstudio.com/)
 
 ### ⚠️ Environment Variables
-
+---
 ⚙️Environment variables are inserted into a file at the root of the project, (src folder), with the name <strong>.env</strong>.<br>
 
 <h4>###Variables for auth app connecting to GitHub:</h4>
@@ -125,7 +124,7 @@ Text Editor: [VSCode](https://code.visualstudio.com/)
   ☑MONGODB_URI="...".
 
 
-
+---
  ⚙️ To run this system you must perform the following steps:
 
 <strong>in your text editor's terminal enter the following commands:</strong>
@@ -196,7 +195,7 @@ Tools used for system construction:
  <sub><strong>🌟 Matheus Rodrigues 🌟</strong></sub>
 </p>
 
-Linkedin:(https://www.linkedin.com/in/matheus-rodrigues-570759184)
+Linkedin:(https://www.linkedin.com/in/matheus-rodrigues-570759184)<br>
 Email:(mailto:matheusrmo@outlook.com)
 
 ---
