@@ -95,7 +95,7 @@ The system is based on the Pomodoro technique, which consists of activities perf
 
 ## 🚀How to run the project?
 
-Para execução deste projeto é necessário a instalação de algumas ferramentas e bibliotecas.
+To execute this project it is necessary to install some tools and libraries.
 
 ###  Requirements
 
