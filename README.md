@@ -27,7 +27,7 @@
 
 ## 💻 Project information
 
-Uma aplicação que simula a utilização da técnica de pomodoro com o intuito de tornar devs mais produtivos e mais saudáveis.
+O sistema é baseado na técnica de Pomodoro, onde consiste em atividades realizadas com intervalos de 25 minutos. Para mais informações acesse o link: https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro.
 
 
 ---
@@ -94,33 +94,37 @@ Uma aplicação que simula a utilização da técnica de pomodoro com o intuito 
 
 ---
 
-## 🚀 Como executar o projeto
+## 🚀How to run the project?
 
-Este projeto contém apenas uma parte:
+Para execução deste projeto é necessário a instalação de algumas ferramentas e bibliotecas.
 
-1. Frontend (pasta web)
+###  Requirements
 
-### Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Yarn](https://classic.yarnpkg.com/en/docs/install).
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Text Editor: [VSCode](https://code.visualstudio.com/)
 
-### ⚠️ Variáveis de Ambiente
+### ⚠️ Environment Variables
 
-Além das ferramentas anteriores, após clonar o repositório, é necessário adicionar váriaveis de ambiente dentro de um arquivo .env na raíz (root) do projeto, que são:
+⚙️Environment variables are inserted into a file at the root of the project, (src folder), with the name <strong>.env</strong>.
 
-GITHUB_CLIENT_ID="É pego no Auth do seu github"
+#Variables for auth app connecting to GitHub:
+  ☑GITHUB_CLIENT_ID="Provided in the auth app"
+  ☑GITHUB_CLIENT_SECRET="Provided in the auth app"
+#Variables for auth app connecting to Google: 
+  ☑GOOGLE_CLIENT_ID="Provided in the auth app"
+  ☑GOOGLE_CLIENT_SECRET="Provided in the auth app"
+#Variables for auth app connecting to Facebook: 
+  ☑FACEBOOK_CLIENT_ID="Provided in the auth app"
+  ☑FACEBOOK_CLIENT_SECRET"Provided in the auth app"
+#Variables with site base URLs:
+  ☑NEXTAUTH_URL="Base URL of your site. Ex.: http://localhost:3000 ou https://moveit-premium.vercel.app/"
+#A random text string that is used in NextAuth:
+  ☑AUTH_SECRET="..."
+  ☑JWT_SECRET="..."
+#URL for connection to MongoDB database:
+  ☑MONGODB_URI="..."
 
-GITHUB_CLIENT_SECRET="É pego no Auth do seu github"
 
-NEXTAUTH_URL="URL base do seu site, como http://localhost:3000 ou https://moveit-taupe-sigma.vercel.app/"
-
-AUTH_SECRET="Uma string de texto aleatória que é usada no NextAuth"
-
-JWT_SECRET="Uma string de texto aleatória que é usada no NextAuth"
-
-MONGODB_URI="URL do mongodb para armazenar os dados"
 
 #### 🧭 Rodando a aplicação web (Frontend)
 
