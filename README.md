@@ -107,21 +107,21 @@ Text Editor: [VSCode](https://code.visualstudio.com/)
 
 ⚙️Environment variables are inserted into a file at the root of the project, (src folder), with the name <strong>.env</strong>.<br>
 
-<h4>#Variables for auth app connecting to GitHub:</h4><br>
+<h4>#Variables for auth app connecting to GitHub:</h4><
   ☑GITHUB_CLIENT_ID="Provided in the auth app"<br>
   ☑GITHUB_CLIENT_SECRET="Provided in the auth app"<br>
-<h4>#Variables for auth app connecting to Google:</h4><br> 
+<h4>#Variables for auth app connecting to Google:</h4> 
   ☑GOOGLE_CLIENT_ID="Provided in the auth app"<br>
   ☑GOOGLE_CLIENT_SECRET="Provided in the auth app"<br>
-<h4>#Variables for auth app connecting to Facebook:</h4><br> 
+<h4>#Variables for auth app connecting to Facebook:</h4>
   ☑FACEBOOK_CLIENT_ID="Provided in the auth app"<br>
   ☑FACEBOOK_CLIENT_SECRET"Provided in the auth app"<br>
-<h4>#Variables with site base URLs:</h4><br>
+<h4>#Variables with site base URLs:</h4>
   ☑NEXTAUTH_URL="Base URL of your site. Ex.: http://localhost:3000 ou https://moveit-premium.vercel.app/"<br>
-<h4>#A random text string that is used in NextAuth:</h4><br>
+<h4>#A random text string that is used in NextAuth:</h4>
   ☑AUTH_SECRET="..."<br>
   ☑JWT_SECRET="..."<br>
-<h4>#URL for connection to MongoDB database:</h4><br>
+<h4>#URL for connection to MongoDB database:</h4>
   ☑MONGODB_URI="..."<br>
 
 
