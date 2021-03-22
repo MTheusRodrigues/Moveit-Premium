@@ -83,8 +83,7 @@ Uma aplicação que simula a utilização da técnica de pomodoro com o intuito 
 ### Modal que aparece ao súbir de nível
 
 <div align="center">
-    <img width="100%" src="./assets/modal_light.PNG" />
-    <img width="100%" src="./assets/modal_dark.PNG " />
+    <img width="100%" src="./public/modal.png" />
 </div>
 
 ### Página de Rankings
