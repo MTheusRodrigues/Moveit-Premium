@@ -107,7 +107,7 @@ Text Editor: [VSCode](https://code.visualstudio.com/)
 
 ⚙️Environment variables are inserted into a file at the root of the project, (src folder), with the name <strong>.env</strong>.<br>
 
-<h4>###Variables for auth app connecting to GitHub:</h4><
+<h4>###Variables for auth app connecting to GitHub:</h4>
   ☑GITHUB_CLIENT_ID="Provided in the auth app";<br>
   ☑GITHUB_CLIENT_SECRET="Provided in the auth app".
 <h4>#Variables for auth app connecting to Google:</h4> 
