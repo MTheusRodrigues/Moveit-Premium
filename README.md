@@ -105,24 +105,24 @@ Text Editor: [VSCode](https://code.visualstudio.com/)
 
 ### ⚠️ Environment Variables
 
-⚙️Environment variables are inserted into a file at the root of the project, (src folder), with the name <strong>.env</strong>.
+⚙️Environment variables are inserted into a file at the root of the project, (src folder), with the name <strong>.env</strong>.<br>
 
-#Variables for auth app connecting to GitHub:
-  ☑GITHUB_CLIENT_ID="Provided in the auth app"
-  ☑GITHUB_CLIENT_SECRET="Provided in the auth app"
-#Variables for auth app connecting to Google: 
-  ☑GOOGLE_CLIENT_ID="Provided in the auth app"
-  ☑GOOGLE_CLIENT_SECRET="Provided in the auth app"
-#Variables for auth app connecting to Facebook: 
-  ☑FACEBOOK_CLIENT_ID="Provided in the auth app"
-  ☑FACEBOOK_CLIENT_SECRET"Provided in the auth app"
-#Variables with site base URLs:
-  ☑NEXTAUTH_URL="Base URL of your site. Ex.: http://localhost:3000 ou https://moveit-premium.vercel.app/"
-#A random text string that is used in NextAuth:
-  ☑AUTH_SECRET="..."
-  ☑JWT_SECRET="..."
-#URL for connection to MongoDB database:
-  ☑MONGODB_URI="..."
+#Variables for auth app connecting to GitHub:<br>
+  ☑GITHUB_CLIENT_ID="Provided in the auth app"<br>
+  ☑GITHUB_CLIENT_SECRET="Provided in the auth app"<br>
+#Variables for auth app connecting to Google:<br> 
+  ☑GOOGLE_CLIENT_ID="Provided in the auth app"<br>
+  ☑GOOGLE_CLIENT_SECRET="Provided in the auth app"<br>
+#Variables for auth app connecting to Facebook:<br> 
+  ☑FACEBOOK_CLIENT_ID="Provided in the auth app"<br>
+  ☑FACEBOOK_CLIENT_SECRET"Provided in the auth app"<br>
+#Variables with site base URLs:<br>
+  ☑NEXTAUTH_URL="Base URL of your site. Ex.: http://localhost:3000 ou https://moveit-premium.vercel.app/"<br>
+#A random text string that is used in NextAuth:<br>
+  ☑AUTH_SECRET="..."<br>
+  ☑JWT_SECRET="..."<br>
+#URL for connection to MongoDB database:<br>
+  ☑MONGODB_URI="..."<br>
 
 
 
