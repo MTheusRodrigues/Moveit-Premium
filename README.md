@@ -203,7 +203,7 @@ Email:📧(mailto:matheusrmo@outlook.com)
 ## 📑 License
  [MIT](./LICENSE).
 
-Matheus Rodrigues 🏽 [Contact us!](https://www.linkedin.com/in/matheus-rodrigues-570759184)
+Matheus Rodrigues 📧 [Contact us!](https://www.linkedin.com/in/matheus-rodrigues-570759184)
 
 ---
 ## **Contributions and References**
