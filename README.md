@@ -109,20 +109,20 @@ Text Editor: [VSCode](https://code.visualstudio.com/)
 
 <h4>#Variables for auth app connecting to GitHub:</h4><
   ☑GITHUB_CLIENT_ID="Provided in the auth app"<br>
-  ☑GITHUB_CLIENT_SECRET="Provided in the auth app"<br>
+  ☑GITHUB_CLIENT_SECRET="Provided in the auth app"
 <h4>#Variables for auth app connecting to Google:</h4> 
   ☑GOOGLE_CLIENT_ID="Provided in the auth app"<br>
-  ☑GOOGLE_CLIENT_SECRET="Provided in the auth app"<br>
+  ☑GOOGLE_CLIENT_SECRET="Provided in the auth app"
 <h4>#Variables for auth app connecting to Facebook:</h4>
   ☑FACEBOOK_CLIENT_ID="Provided in the auth app"<br>
-  ☑FACEBOOK_CLIENT_SECRET"Provided in the auth app"<br>
+  ☑FACEBOOK_CLIENT_SECRET"Provided in the auth app"
 <h4>#Variables with site base URLs:</h4>
-  ☑NEXTAUTH_URL="Base URL of your site. Ex.: http://localhost:3000 ou https://moveit-premium.vercel.app/"<br>
+  ☑NEXTAUTH_URL="Base URL of your site. Ex.: http://localhost:3000 ou https://moveit-premium.vercel.app/"
 <h4>#A random text string that is used in NextAuth:</h4>
   ☑AUTH_SECRET="..."<br>
-  ☑JWT_SECRET="..."<br>
+  ☑JWT_SECRET="..."
 <h4>#URL for connection to MongoDB database:</h4>
-  ☑MONGODB_URI="..."<br>
+  ☑MONGODB_URI="..."
 
 
 
