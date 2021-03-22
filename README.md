@@ -197,7 +197,7 @@ Tools used for system construction:
 </p>
 
 Linkedin:(https://www.linkedin.com/in/matheus-rodrigues-570759184)
-Email:(mailto:matheusrmo@outlook.com)](mailto:matheusrmo@outlook.com)
+Email:(mailto:matheusrmo@outlook.com)
 
 ---
 
@@ -208,8 +208,8 @@ Matheus Rodrigues 🏽 [Entre em contato!](https://www.linkedin.com/in/matheus-r
 
 ---
 ## **Contributions and References**
-Rocketseat:https://rocketseat.com.br/;
-Guilherme Rocha:https://github.com/grochavieira Linkedin:https://www.linkedin.com/in/grochavieira/;
-Serverless com ReactJS e Next.js na Vercel | Code/Drops #54:https://www.youtube.com/watch?v=Cz55Jmhfw84;
-AUTENTICAÇÃO COM NEXT-AUTH [PARTE #09]:https://www.youtube.com/watch?v=lINOGJ2a5J4&t=447s;
-Adding Authentication to Next.js:https://www.youtube.com/watch?v=3q4BtCzuryY&t=1243s.
+Rocketseat:https://rocketseat.com.br/;<br>
+Guilherme Rocha:https://github.com/grochavieira Linkedin:https://www.linkedin.com/in/grochavieira/;<br>
+Serverless com ReactJS e Next.js na Vercel | Code/Drops #54:https://www.youtube.com/watch?v=Cz55Jmhfw84;<br>
+AUTENTICAÇÃO COM NEXT-AUTH [PARTE #09]:https://www.youtube.com/watch?v=lINOGJ2a5J4&t=447s;<br>
+Adding Authentication to Next.js:https://www.youtube.com/watch?v=3q4BtCzuryY&t=1243s.<br>
