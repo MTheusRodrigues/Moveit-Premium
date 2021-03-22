@@ -126,34 +126,44 @@ Text Editor: [VSCode](https://code.visualstudio.com/)
 
 
 
-#### 🧭 Rodando a aplicação web (Frontend)
+ ⚙️ To run this system you must perform the following steps:
 
+<strong>in your text editor's terminal enter the following commands:</strong>
 ```bash
+# Clone this repository
+$ git clone https://github.com/MTheusRodrigues/Moveit-Premium.git
 
-# Clone este repositório
-$ git clone https://github.com/grochavieira/moveit.git
+# Go to the project folder 
+$ cd moveit-premium
 
-# Acesse a pasta do projeto no seu terminal/cmd
-$ cd moveit
-
-# Vá para a pasta da aplicação Front End
-$ cd web
-
-# Instale as dependências
+# Install dependencies
 $ yarn install
 
-# Execute a aplicação em modo de desenvolvimento
+# Install some necessary tools
+$ yarn add mongodb;
+$ yarn add @types/mongodb -D;
+$ yarn add @vercel/node;
+$ yarn add next-auth;
+$ yarn add axios;
+$ yarn add @fortawesome/free-solid-svg-icons;
+$ yarn add @fortawesome/react-fontawesome;
+$ yarn add add @fortawesome/fontawesome-svg-core;
+$ yarn add typescript @types/react @types/react-dom @types/node -D;
+$ yarn add js-cookie;
+$ npm i react-router-dom;
+
+# Run the application in development mode
 $ yarn dev
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+# The application will open on the door:3000 - in your browser go to http://localhost:3000
 
 ```
 
 ---
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
-As seguintes ferramentas foram usadas na construção do projeto:
+Tools used for system construction:
 
 #### **Website** ([React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/))
 
@@ -167,11 +177,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 > Veja o arquivo [package.json](https://github.com/grochavieira/moveit/blob/master/web/package.json)
 
-#### **Utilitários**
+ **Utilities**
 
 - Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
-- Fontes: **[Rajdhani](https://fonts.google.com/specimen/Rajdhani)**, **[Inter](https://fonts.google.com/specimen/Inter)**
-
+- Fonts: **[Rajdhani](https://fonts.google.com/specimen/Rajdhani)**, **[Inter](https://fonts.google.com/specimen/Inter)**
+- FontWaesome 5.15.3 **(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css)**
 ---
 
 <a name="-autor"></a>
@@ -180,14 +190,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <p>
 <kbd>
- <img src="https://avatars1.githubusercontent.com/u/48029638?s=460&u=f8d11a7aa9ce76a782ef140a075c5c81be878f00&v=4" width="150px;" alt=""/>
+ <img src="https://avatars.githubusercontent.com/u/71035485?s=400&u=4a0df560e95e17ee07fb0e700d9bf48385c8dd4b&v=4" width="150px;" alt="Matheus Rodrigues"/>
  </kbd>
  <br />
- <sub><strong>🌟 Guilherme Rocha Vieira 🌟</strong></sub>
+ <sub><strong>🌟 Matheus Rodrigues 🌟</strong></sub>
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Guilherme-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grochavieira/)](https://www.linkedin.com/in/grochavieira/)
-[![Gmail Badge](https://img.shields.io/badge/-guirocha.hopeisaba@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:guirocha.hopeisaba@gmail.com)](mailto:guirocha.hopeisaba@gmail.com)
+[![Linkedin Badge](https://www.linkedin.com/in/matheus-rodrigues-570759184)
+[![Email](mailto:matheusrmo@outlook.com)](mailto:matheusrmo@outlook.com)
 
 ---
 
@@ -195,6 +205,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com :satisfied: por Guilherme Rocha Vieira 👋🏽 [Entre em contato!](https://www.linkedin.com/in/grochavieira/)
+Matheus Rodrigues 🏽 [Entre em contato!](https://www.linkedin.com/in/grochavieira/)
 
 ---
