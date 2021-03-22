@@ -20,7 +20,7 @@
 
 ## 💻 Project information
 
-The system is based on the Pomodoro technique, which consists of activities performed at intervals of 25 minutes. For more information visit the link: https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro.
+The system is based on the Pomodoro technique, which consists of activities performed at intervals of 25 minutes. For more information visit the link: 🌐https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro.
 
 
 ---
@@ -99,29 +99,29 @@ To execute this project it is necessary to install some tools and libraries.
 
 ###  Requirements
 
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Yarn](https://classic.yarnpkg.com/en/docs/install).
-Text Editor: [VSCode](https://code.visualstudio.com/)
+[Git]🌐(https://git-scm.com);br> [Node.js]🌐(https://nodejs.org/en/);<br> [Yarn]🌐(https://classic.yarnpkg.com/en/docs/install);<br>
+Text Editor: [VSCode]🌐(https://code.visualstudio.com/).
 
 ### ⚠️ Environment Variables
 ---
 ⚙️Environment variables are inserted into a file at the root of the project, (src folder), with the name <strong>.env</strong>.<br>
 
 <h4>###Variables for auth app connecting to GitHub:</h4>
-  ☑GITHUB_CLIENT_ID="Provided in the auth app";<br>
-  ☑GITHUB_CLIENT_SECRET="Provided in the auth app".
+  🔑GITHUB_CLIENT_ID="Provided in the auth app";<br>
+  🔑GITHUB_CLIENT_SECRET="Provided in the auth app".
 <h4>#Variables for auth app connecting to Google:</h4> 
-  ☑GOOGLE_CLIENT_ID="Provided in the auth app";<br>
-  ☑GOOGLE_CLIENT_SECRET="Provided in the auth app".
+  🔑GOOGLE_CLIENT_ID="Provided in the auth app";<br>
+  🔑GOOGLE_CLIENT_SECRET="Provided in the auth app".
 <h4>#Variables for auth app connecting to Facebook:</h4>
-  ☑FACEBOOK_CLIENT_ID="Provided in the auth app";<br>
-  ☑FACEBOOK_CLIENT_SECRET"Provided in the auth app".
+  🔑FACEBOOK_CLIENT_ID="Provided in the auth app";<br>
+  🔑FACEBOOK_CLIENT_SECRET"Provided in the auth app".
 <h4>#Variables with site base URLs:</h4>
-  ☑NEXTAUTH_URL="Base URL of your site. Ex.: http://localhost:3000 ou https://moveit-premium.vercel.app/".
+  🌐NEXTAUTH_URL="Base URL of your site. Ex.: http://localhost:3000 ou https://moveit-premium.vercel.app/".
 <h4>#A random text string that is used in NextAuth:</h4>
-  ☑AUTH_SECRET="...";<br>
-  ☑JWT_SECRET="...".
+  🔑AUTH_SECRET="...";<br>
+  🔑JWT_SECRET="...".
 <h4>#URL for connection to MongoDB database:</h4>
-  ☑MONGODB_URI="...".
+  🌐MONGODB_URI="...".
 
 
 ---
@@ -166,21 +166,21 @@ Tools used for system construction:
 
 #### **Website** ([React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/))
 
-- **[Next.js](https://nextjs.org/)**
-- **[Context](https://pt-br.reactjs.org/docs/context.html)**
-- **[js-cookie](https://github.com/js-cookie/js-cookie)**
-- **[css-Modules](https://github.com/css-modules/css-modules)**
-- **[MongoDB](https://www.mongodb.com/)**
-- **[Next-Auth](https://next-auth.js.org/)**
-- **[React Icons](https://react-icons.github.io/react-icons/)**
+- **[Next.js]🌐(https://nextjs.org/)**
+- **[Context]🌐(https://pt-br.reactjs.org/docs/context.html)**
+- **[js-cookie]🌐(https://github.com/js-cookie/js-cookie)**
+- **[css-Modules]🌐(https://github.com/css-modules/css-modules)**
+- **[MongoDB]🌐(https://www.mongodb.com/)**
+- **[Next-Auth]🌐(https://next-auth.js.org/)**
+- **[React Icons]🌐(https://react-icons.github.io/react-icons/)**
 
- Go to the package.json file for more information [package.json](https://github.com/MTheusRodrigues/Moveit-Premium/blob/main/package.json)
+ Go to the package.json file for more information [package.json]🌐(https://github.com/MTheusRodrigues/Moveit-Premium/blob/main/package.json)
 
  **Utilities**
 
-- Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
-- Fonts: **[Rajdhani](https://fonts.google.com/specimen/Rajdhani)**, **[Inter](https://fonts.google.com/specimen/Inter)**
-- FontWaesome 5.15.3 **(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css)**
+- Editor: **[Visual Studio Code]🌐(https://code.visualstudio.com/)**
+- Fonts: **[Rajdhani]🌐(https://fonts.google.com/specimen/Rajdhani)**, **[Inter]🌐(https://fonts.google.com/specimen/Inter)**
+- FontWaesome 5.15.3 **🌐(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css)**
 ---
 
 <a name="-autor"></a>
@@ -195,8 +195,8 @@ Tools used for system construction:
  <sub><strong>🌟 Matheus Rodrigues 🌟</strong></sub>
 </p>
 
-Linkedin:(https://www.linkedin.com/in/matheus-rodrigues-570759184)<br>
-Email:(mailto:matheusrmo@outlook.com)
+Linkedin:👨‍💼(https://www.linkedin.com/in/matheus-rodrigues-570759184)<br>
+Email:📧(mailto:matheusrmo@outlook.com)
 
 ---
 
@@ -207,8 +207,8 @@ Matheus Rodrigues 🏽 [Entre em contato!](https://www.linkedin.com/in/matheus-r
 
 ---
 ## **Contributions and References**
-Rocketseat:https://rocketseat.com.br/;<br>
+🚀Rocketseat:https://rocketseat.com.br/;<br>
 Guilherme Rocha:https://github.com/grochavieira Linkedin:https://www.linkedin.com/in/grochavieira/;<br>
-Serverless com ReactJS e Next.js na Vercel | Code/Drops #54:https://www.youtube.com/watch?v=Cz55Jmhfw84;<br>
-AUTENTICAÇÃO COM NEXT-AUTH [PARTE #09]:https://www.youtube.com/watch?v=lINOGJ2a5J4&t=447s;<br>
-Adding Authentication to Next.js:https://www.youtube.com/watch?v=3q4BtCzuryY&t=1243s.<br>
+:yt:Serverless com ReactJS e Next.js na Vercel | Code/Drops #54:https://www.youtube.com/watch?v=Cz55Jmhfw84;<br>
+:yt:AUTENTICAÇÃO COM NEXT-AUTH [PARTE #09]:https://www.youtube.com/watch?v=lINOGJ2a5J4&t=447s;<br>
+:yt:Adding Authentication to Next.js:https://www.youtube.com/watch?v=3q4BtCzuryY&t=1243s.<br>
