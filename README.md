@@ -95,9 +95,9 @@ The system is based on the Pomodoro technique, which consists of activities perf
 
 ## 🚀How to run the project?
 
-To execute this project it is necessary to install some tools and libraries.
+✒️To execute this project it is necessary to install some tools and libraries.
 
-###  Requirements
+###📑  Requirements
 
 [Git]🌐(https://git-scm.com);br> [Node.js]🌐(https://nodejs.org/en/);<br> [Yarn]🌐(https://classic.yarnpkg.com/en/docs/install);<br>
 Text Editor: [VSCode]🌐(https://code.visualstudio.com/).
@@ -185,7 +185,7 @@ Tools used for system construction:
 
 <a name="-autor"></a>
 
-## 🦸‍♂️ **Autor**
+## 👨‍🔧 **Autor**
 
 <p>
 <kbd>
@@ -200,7 +200,7 @@ Email:📧(mailto:matheusrmo@outlook.com)
 
 ---
 
-## 📝 License
+## 📑 License
  [MIT](./LICENSE).
 
 Matheus Rodrigues 🏽 [Contact us!](https://www.linkedin.com/in/matheus-rodrigues-570759184)
