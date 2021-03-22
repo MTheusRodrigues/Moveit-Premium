@@ -57,10 +57,10 @@ The system is based on the Pomodoro technique, which consists of activities perf
 
 
 ### Future Updates...
-🔨-Deploy for production;
-🔨-Responsive for mobile devices;
-🔨-Addition of ranking with three levels (gold, silver and bronze);
-🔨-Adding friendships button (add friends);
+🔨-Deploy for production;<br>
+🔨-Responsive for mobile devices;<br>
+🔨-Addition of ranking with three levels (gold, silver and bronze);<br>
+🔨-Adding friendships button (add friends);<br>
 🔨-Added dark and light theme;
 
 ---
