@@ -68,13 +68,13 @@ O sistema é baseado na técnica de Pomodoro, onde consiste em atividades realiz
 
 ## 🎨 Layout
 
-### Página de Login
+### Login Page
 
 <div align="center">
     <img width="100%" src="./public/indexPage.png" />
 </div>
 
-### Página Principal
+### Home
 
 <div align="center">
     <img width="100%" src="./public/homePage.png" />
@@ -86,7 +86,7 @@ O sistema é baseado na técnica de Pomodoro, onde consiste em atividades realiz
     <img width="100%" src="./public/modal.png" />
 </div>
 
-### Página de Rankings
+### Rankings Page
 
 <div align="center">
     <img width="100%" src="./public/rankingPage.png" />
@@ -175,7 +175,7 @@ Tools used for system construction:
 - **[Next-Auth](https://next-auth.js.org/)**
 - **[React Icons](https://react-icons.github.io/react-icons/)**
 
-> Veja o arquivo [package.json](https://github.com/grochavieira/moveit/blob/master/web/package.json)
+ Go to the package.json file for more information [package.json](https://github.com/MTheusRodrigues/Moveit-Premium/blob/main/package.json)
 
  **Utilities**
 
@@ -196,15 +196,20 @@ Tools used for system construction:
  <sub><strong>🌟 Matheus Rodrigues 🌟</strong></sub>
 </p>
 
-[![Linkedin Badge](https://www.linkedin.com/in/matheus-rodrigues-570759184)
-[![Email](mailto:matheusrmo@outlook.com)](mailto:matheusrmo@outlook.com)
+Linkedin:(https://www.linkedin.com/in/matheus-rodrigues-570759184)
+Email:(mailto:matheusrmo@outlook.com)](mailto:matheusrmo@outlook.com)
 
 ---
 
-## 📝 Licença
+## 📝 License
+ [MIT](./LICENSE).
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
-
-Matheus Rodrigues 🏽 [Entre em contato!](https://www.linkedin.com/in/grochavieira/)
+Matheus Rodrigues 🏽 [Entre em contato!](https://www.linkedin.com/in/matheus-rodrigues-570759184)
 
 ---
+## **Contributions and References**
+Rocketseat:https://rocketseat.com.br/;
+Guilherme Rocha:https://github.com/grochavieira Linkedin:https://www.linkedin.com/in/grochavieira/;
+Serverless com ReactJS e Next.js na Vercel | Code/Drops #54:https://www.youtube.com/watch?v=Cz55Jmhfw84;
+AUTENTICAÇÃO COM NEXT-AUTH [PARTE #09]:https://www.youtube.com/watch?v=lINOGJ2a5J4&t=447s;
+Adding Authentication to Next.js:https://www.youtube.com/watch?v=3q4BtCzuryY&t=1243s.
